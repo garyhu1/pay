@@ -25,11 +25,9 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
 
-![show](http://e.hiphotos.baidu.com/image/pic/item/023b5bb5c9ea15ceaa496fe9b4003af33b87b2af.jpg)
+![show](http://i0.hdslb.com/bfs/archive/2355be99b12476f855a81888cb8cefb443a91b68.jpg)
 
-![image](https://github.com/githubwing/DragPhotoView/raw/master/img/img.gif)
-
-![这里写图片描述](http://img.blog.csdn.net/20151202143834990)
+![image](http://img3.imgtn.bdimg.com/it/u=1348917219,646040232&fm=23&gp=0.jpg)
 
 ### 对于新增的签名信息需注意以下几点
 > **1.** 前台返回的支付结果中包含银联签名，要在商户后台对签名进行校验后才能展示结果。
