@@ -25,7 +25,7 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
 
-![show](mipmap/ic_launcher.png)
+![show](http://e.hiphotos.baidu.com/image/pic/item/023b5bb5c9ea15ceaa496fe9b4003af33b87b2af.jpg)
 
 ![image](https://github.com/githubwing/DragPhotoView/raw/master/img/img.gif)
 
