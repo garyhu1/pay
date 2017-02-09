@@ -4,9 +4,13 @@
 ##银联下载地址
 [zip](https://open.unionpay.com/ajweb/help/file/techFile?productId=3)
 
-### 远程端连接信息配置
+### 测试卡号
 ```java
-    socketClient.getAddress().setRemoteIP(IPUtil.getLocalIPAddress(true)); // 远程端IP地址
-    socketClient.getAddress().setRemotePort("21998"); // 远程端端口号
-    socketClient.getAddress().setConnectionTimeout(15 * 1000); // 连接超时时长，单位毫秒
+    招商银行借记卡：6226090000000048
+        手机号：18100000000
+        密码：111101
+        短信验证码：123456（先点获取验证码之后再输入）
+        证件类型：01身份证
+        证件号：510265790128303
+        姓名：张三
 ```
