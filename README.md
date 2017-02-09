@@ -38,3 +38,11 @@
 >
 > **4.** 商户订单是否成功支付应该以商户后台收到全渠道返回的支付结果为准，此处支付控件返回的结果仅作为参考。
  <br><br>
+
+ | 名字 | 功能  | 优点|
+ | :------------: |:---------------:| :-----:|
+ | ActivityCollectionUtils （尚未测试) | activity的若引用收集 | 兼容ViewPager与正常fragment的替换 |
+ | FragmentSwitcher   | fragment切换的封装 | 使用相当起来方便举个例子：fragmentSwitcher.switchPage(0);|
+ | ~~MeasureUtils~~用View.post()代替   | 主要在onCreate中来测量高度 | |
+ | ToastUtils   | 借来的~ | |
+ | ActivityTopViewUtils   | Dector Content setContentView,与 statuBar高度的获取| |
