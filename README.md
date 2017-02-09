@@ -25,4 +25,4 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://github.com/hugeterry/CoordinatorTabLayout/blob/master/LICENSE.txt)
 
-![show](showUI/show1.gif)
+![show](showUI/ic_launcher.png)
