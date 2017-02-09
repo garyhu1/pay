@@ -40,10 +40,10 @@
  <br><br>
 
 ##and.utils.activity_fragment_ui包
- | 名字 | 功能  | 优点|
- | :------------: |:---------------:| :-----:|
- | ActivityCollectionUtils （尚未测试) | activity的若引用收集 | 兼容ViewPager与正常fragment的替换 |
- | FragmentSwitcher   | fragment切换的封装 | 使用相当起来方便举个例子：fragmentSwitcher.switchPage(0);|
- | ~~MeasureUtils~~用View.post()代替   | 主要在onCreate中来测量高度 | |
- | ToastUtils   | 借来的~ | |
- | ActivityTopViewUtils   | Dector Content setContentView,与 statuBar高度的获取| |
+| 名字 | 功能  | 优点|
+| :------------: |:---------------:| :-----:|
+| ActivityCollectionUtils （尚未测试) | activity的若引用收集 | 兼容ViewPager与正常fragment的替换 |
+| FragmentSwitcher   | fragment切换的封装 | 使用相当起来方便举个例子：fragmentSwitcher.switchPage(0);|
+| ~~MeasureUtils~~用View.post()代替   | 主要在onCreate中来测量高度 | |
+| ToastUtils   | 借来的~ | |
+| ActivityTopViewUtils   | Dector Content setContentView,与 statuBar高度的获取| |
