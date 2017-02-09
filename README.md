@@ -28,3 +28,5 @@
 ![show](mipmap/ic_launcher.png)
 
 ![image](https://github.com/githubwing/DragPhotoView/raw/master/img/img.gif)
+
+![这里写图片描述](http://img.blog.csdn.net/20151202143834990)
