@@ -14,3 +14,11 @@
         证件号：510265790128303
         姓名：张三
 ```
+
+### 调用支付控件
+```
+    // “00” – 银联正式环境
+    // “01” – 银联测试环境，该环境中不发生真实交易
+    String serverMode = "01";
+    UPPayAssistEx.startPay (activity, null, null, tn, serverMode);
+```
